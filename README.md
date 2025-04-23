@@ -9,3 +9,8 @@ source venv/bin/activate
 admin.site.register(Todo) -- зареган в админе в core 
 
 core->views (GET, POST)
+
+
+
+React
++ icons = heroicons
